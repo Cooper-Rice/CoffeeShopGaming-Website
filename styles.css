@@ -136,11 +136,19 @@
 }
 
 .index-card {
- background: linear-gradient(90deg, rgb(68, 165, 207) 0%, rgb(53, 143, 191) 50%, rgb(120, 161, 215) 100%);
+  background: linear-gradient(90deg, rgb(68, 165, 207) 0%, rgb(53, 143, 191) 50%, rgb(120, 161, 215) 100%);
   color: white;
   padding: 40px;
   border-radius: 15px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.index-card h2 {
+  margin-bottom: 15px;
+}
+
+.index-card p {
+  margin-top: 0;
 }
 
 .intro-text {
