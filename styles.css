@@ -154,3 +154,13 @@
   font-size: 18px; 
   line-height: 1.6;
 }
+@media (max-width: 768px) {
+  .nav-btn {
+    padding: 15px 25px;
+    font-size: 16px;
+  }
+  
+  .standard-header nav {
+    flex-wrap: wrap;
+  }
+}
