@@ -7,6 +7,7 @@ Built with plain HTML, CSS, and JavaScript. No frameworks, no build steps.
 ## Pages
 
 - `index.html` - Home page with server info and team
+- `seasons.html` - Information about past, present, and future seasons
 - `library.html` - Picture gallery
 - `contact.html` - Contact form (opens Gmail)
 
@@ -14,6 +15,7 @@ Built with plain HTML, CSS, and JavaScript. No frameworks, no build steps.
 
 ```
 index.html
+seasons.html
 library.html
 contact.html
 styles.css
