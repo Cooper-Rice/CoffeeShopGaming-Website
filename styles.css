@@ -780,7 +780,7 @@ footer {
 }
 
 /* ── RESPONSIVE ── */
-@media(max-width:600px) {
+@media(max-width:720px) {
   nav {
     padding: 14px 20px;
   }
