@@ -1,3 +1,4 @@
+
 # CoffeeShopGaming Website
 
 Official website code for the CoffeeShopGaming website.
